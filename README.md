@@ -3,8 +3,8 @@
 API REST desarrollada con **Python** y **FastAPI**, conectada a **PostgreSQL en Neon**, organizada bajo **arquitectura por capas** y desplegada en **Render**[cite: 1, 11]. Implementa el **Ejercicio 13 (Gestión de torneos deportivos)** junto con el módulo independiente de **Usuarios**[cite: 5, 9, 10].
 
 ## Enlaces del proyecto
-- **Documentación interactiva (Swagger UI):** `https://[TU-API].onrender.com/docs`
-- **API desplegada en Render:** `https://torneos-api-ewey.onrender.com/docs#/`
+- **Documentación interactiva (Swagger UI):** `https://torneos-api-ewey.onrender.com/docs`
+- **API desplegada en Render:** `https://torneos-api-ewey.onrender.com`
 - **Repositorio en GitHub:** `https://github.com/04lora/torneos_api`
 
 ## Tecnologías utilizadas
